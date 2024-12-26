@@ -61,5 +61,5 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE) untu
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di [mr.aderamdani@gmail.com.com](mailto:mr.aderamdani@gmail.com).
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di [mr.aderamdani@gmail.com](mailto:mr.aderamdani@gmail.com).
 ```
