@@ -1,0 +1,13 @@
+# Requirements for PDF Extractor and Renamer
+
+# PyPDF2 is a library for reading and manipulating PDF files.
+# It allows for extracting text, merging, and splitting PDF documents.
+PyPDF2==1.26.0
+
+# pandas is a powerful data manipulation and analysis library for Python.
+# It provides data structures like DataFrames to handle structured data.
+pandas==1.5.3
+
+# openpyxl is a library for reading and writing Excel (XLSX) files.
+# It is used to import names from Excel files in this application.
+openpyxl==3.0.10
